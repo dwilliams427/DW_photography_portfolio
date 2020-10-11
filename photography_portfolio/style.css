@@ -1,1 +1,30 @@
 /*css code goes here*/
+div.name-heading {
+    display: flex;
+    justify-content: center;
+
+}
+
+/* div.nav-buttons {
+    display: inline-flex;
+    justify-content: center;
+} */
+
+ul.nav-list {
+    display: flex;
+    justify-content: center;  
+    justify-content: space-around;     
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* li.nav-items {
+    display: flex;
+    
+} */
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
