@@ -1,2 +1,2 @@
 # DW_photography_portfolio
-Personal photography portfolio website.
+Personal photography portfolio website project
